@@ -6,5 +6,5 @@ Simply input an integer and the program will then print all the integers leading
 
 ## Installation 
 
-Copy the [python source code]https://github.com/connerkennedy32/fizzbuzz/blob/master/fizzbuzz.py and paste it into the editor of your choosing.
+Copy the [python source code](https://github.com/connerkennedy32/fizzbuzz/blob/master/fizzbuzz.py) and paste it into the editor of your choosing.
 
