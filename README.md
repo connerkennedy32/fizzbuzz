@@ -32,3 +32,20 @@ Once you are accessing the proper directory it's time to run the application. Le
 python3 fizzbuzz.py 51
 ```
 
+A list of integers would then be printed to the terminal. Certain numbers would be ommited and replaced by **Fizz, Buzz,** and **Fizzbuzz**. For example:
+
+```bash
+fizzbuzz
+1
+2
+fizz
+4
+buzz
+fizz
+...
+```
+
+
+
+
+
