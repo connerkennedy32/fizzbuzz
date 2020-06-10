@@ -14,3 +14,9 @@ You will need to navigate to the appropriate folder to access your file. If you 
 
 `cd desktop`
 
+If it was in a folder on the desktop named CodingPractice the code would look like this:
+
+`cd desktop/CodingPractice`
+
+
+
