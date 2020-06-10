@@ -14,17 +14,21 @@ Copy the [python source code](https://github.com/connerkennedy32/fizzbuzz/blob/m
 
 Save the python file (.py) onto your local machine and then open your terminal. 
 
-You will need to navigate to the appropriate folder to access your file. If you saved the file onto your desktop your code would look like this:
+You will need to navigate to the appropriate directory to access your file. If you saved the file onto your desktop your code would look like this:
 
 ```bash
 cd desktop
 ```
 
-If it was in a folder on the desktop named CodingPractice the code would look like this:
+If it was in a directory on the desktop named CodingPractice the code would look like this:
 
 ```bash
 cd desktop/CodingPractice
 ```
 
+Once you are accessing the proper directory it's time to run the application. Lets say you named your python file **fizzbuzz.py**. If you have Python 3 installed on your system and you want a list of integers from **0 to 50**. This is what you would type next:
 
+```bash
+python3 fizzbuzz.py 51
+```
 
