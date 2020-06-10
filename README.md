@@ -12,5 +12,5 @@ Save the python file (.py) onto your local machine and then open your terminal.
 
 You will need to navigate to the appropriate folder to access your file. If you saved the file onto your desktop your code would look like this:
 
-'cd desktop'
+`cd desktop`
 
