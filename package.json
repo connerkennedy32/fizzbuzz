@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Application that prints multiples of 5 and 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connerkennedy32/fizzbuzz.git"
+  },
+  "author": "Conner Kennedy",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/connerkennedy32/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/connerkennedy32/fizzbuzz#readme"
+}
